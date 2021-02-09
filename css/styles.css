@@ -1,0 +1,92 @@
+h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3.0rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-size:2.5rem;
+    line-height:3;
+}
+
+h3{
+    font-size:2rem;
+    line-height:1.5;
+}
+
+/*  Title Section */
+
+
+#title{
+    background-color:#aee6e6;
+    padding:4% 15%;
+}
+
+.top{
+    padding-top:30px;
+}
+
+.bathtub-img{
+    width:90%;
+    position:relative;
+    left:10%;
+    top:30px;
+    border-radius:10%;
+    transform:rotate(10deg);
+}
+
+.music-note-img{
+    position:absolute;
+    z-index:1;
+    right:60px;
+    width:60%;
+} 
+
+.navbar-brand{
+    color:#fff;
+    font-size:2rem;
+}
+
+.nav-link{
+    color: #d0e8f2;
+}
+
+
+
+
+/* Lyrics Section */
+
+#lyrics{
+    text-align:center;
+    background-color: #bee5d3;
+    padding: 3% 5%;
+}
+
+
+/* Composer Section */
+
+#composer{
+    padding : 4% 5% ;
+    background-color: #d0e8f2;
+    text-align:left;
+    padding-bottom: 7%;
+}
+
+.sponge-bob-img{
+    width:50%;
+    position:absolute;;
+    left:10%;
+    bottom:15%;
+    border-radius :30px;
+    transform:rotate(-10deg);
+}
+
+
+/* Footer Section */
+
+#footer{
+    background-color: #bce6eb;
+    text-align: center;
+    padding:2% 15% ;
+}
+
